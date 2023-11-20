@@ -9,13 +9,13 @@ Now open your Eclipse IDE and import the Extracted JavaHomeTask1 file and Click 
 
 Now you can find the following examples related to Capstone project in the Main.java file
 
-  a) Handling Multiple Exceptions
+  a) Handling Multiple Exceptions -> by Swathi Chandrashekaraiah
 
-  b) Re-throwing Exceptions
+  b) Re-throwing Exceptions -> by Angel Mary
 
-  c) Resource Management
+  c) Resource Management -> by Farhaad Sheikh Mohammed
 
-  d) Chaining Exceptions
+  d) Chaining Exceptions -> by Arjun Veeramony
 
 IF YOU ARE RUNNING THE PROJECT IN ANY OTHER IDE:
 
