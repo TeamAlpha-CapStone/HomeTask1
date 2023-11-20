@@ -1,6 +1,14 @@
 This repository contains solutions to Home Task 1 of Java by Angel Mary(7218965), Arjun Veeramony(7219119),Farhaad Sheikh Mohammed
 (7219055), Swathi Chandrashekaraiah(7218877) of ESE. All the codes are written and executed in Eclipse IDE and JDK21.
 
+If you are running the Project in Eclipse:
+
+Download the JavaHomeTask1 Zipfile
+
+
+
+
+
 Download the Main.java file in any of the folder.(Empty Folder Preferably)
 
 Open the Main.java file with any of the Java IDE.
